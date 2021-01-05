@@ -33,3 +33,5 @@ Write some code to scrape Three’s roaming abroad page for information on all o
 - Some general design decisions would be changed to allow more flexibility, such as being able to search for any country, although this would result in a slower scrape. 
   - This would include accepting a list of countries during initialisation of the class
   - Not getting all urls ahead of time, and instead running the full cost search per country
+
+- The next thing to do would be to write few tests, to check that the data being scraped is consistent, that no data is being missed, and that the pages are loading correctly, however due to time constraints, I've not been able to write them. I intend on experimenting with the TDD approach in the future to avoid this sort of issue in going forward.
