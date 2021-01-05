@@ -10,13 +10,15 @@ def create_driver(headless):
     if headless:
         gecko_options.add_argument("-headless")
 
-    self.driver = webdriver.Firefox(
+    driver = webdriver.Firefox(
         executable_path=_get_driver_path(),
         options=gecko_options
     )
 
+    return driver
 
-def _get_driver_path(self):
+
+def _get_driver_path():
     slash = ''
     driver_path = os.path.dirname(os.path.abspath(__file__))
 

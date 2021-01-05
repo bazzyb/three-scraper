@@ -1,0 +1,1255 @@
+1609875177238	geckodriver	INFO	Listening on 127.0.0.1:49613
+1609875177252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofilecIaN7e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609875179977	Marionette	INFO	Listening on port 49623
+1609875180023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609875180849	Marionette	INFO	Stopped listening on port 49623
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609875195493	geckodriver	INFO	Listening on 127.0.0.1:49731
+1609875195511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileiOA1K2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609875197313	Marionette	INFO	Listening on port 49740
+1609875197346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609875197987	Marionette	INFO	Stopped listening on port 49740
+1609875368207	geckodriver	INFO	Listening on 127.0.0.1:49837
+1609875368222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofiletbqGjw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609875369967	Marionette	INFO	Listening on port 49846
+1609875370083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609875371301	Marionette	INFO	Stopped listening on port 49846
+JavaScript error: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 6: TypeError: b.win is undefined
+1609875385504	geckodriver	INFO	Listening on 127.0.0.1:49923
+1609875385521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileWBbel4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609875387431	Marionette	INFO	Listening on port 49932
+1609875387462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609875392110	Marionette	INFO	Stopped listening on port 49932
+1609875700094	geckodriver	INFO	Listening on 127.0.0.1:50167
+1609875700111	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofilehFe3sD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609875701813	Marionette	INFO	Listening on port 50176
+1609875701860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609875702710	Marionette	INFO	Stopped listening on port 50176
+1609876213630	geckodriver	INFO	Listening on 127.0.0.1:50342
+1609876213648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofile8ICnsj"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609876215453	Marionette	INFO	Listening on port 50351
+1609876215493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609876220106	Marionette	INFO	Stopped listening on port 50351
+1609876245025	geckodriver	INFO	Listening on 127.0.0.1:50499
+1609876245036	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileQ4mVjz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609876246911	Marionette	INFO	Listening on port 50508
+1609876246996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609876259799	Marionette	INFO	Stopped listening on port 50508
+1609876702243	geckodriver	INFO	Listening on 127.0.0.1:50788
+1609876702254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileGzQMB8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609876704157	Marionette	INFO	Listening on port 50797
+1609876704197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609876718227	Marionette	INFO	Stopped listening on port 50797
+1609876739532	geckodriver	INFO	Listening on 127.0.0.1:50988
+1609876739550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofile0nhoJ8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609876741296	Marionette	INFO	Listening on port 50997
+1609876741411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609876753448	Marionette	INFO	Stopped listening on port 50997
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1609876759025	geckodriver	INFO	Listening on 127.0.0.1:51176
+1609876759042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofile2E7RfY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609876760721	Marionette	INFO	Listening on port 51185
+1609876760790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609876773733	Marionette	INFO	Stopped listening on port 51185
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1609876899917	geckodriver	INFO	Listening on 127.0.0.1:51400
+1609876899933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileVDTvoi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609876901709	Marionette	INFO	Listening on port 51409
+1609876901789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609876916348	Marionette	INFO	Stopped listening on port 51409
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1609876926622	geckodriver	INFO	Listening on 127.0.0.1:51597
+1609876926638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofiledIAaK3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609876928575	Marionette	INFO	Listening on port 51606
+1609876928688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609876932058	Marionette	INFO	Stopped listening on port 51606
+1609876955219	geckodriver	INFO	Listening on 127.0.0.1:51755
+1609876955237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileKBypf1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609876957204	Marionette	INFO	Listening on port 51764
+1609876957302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609876968743	Marionette	INFO	Stopped listening on port 51764
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1609877620991	geckodriver	INFO	Listening on 127.0.0.1:52122
+1609877621007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofilePQHT3T"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609877622877	Marionette	INFO	Listening on port 52131
+1609877622955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609877622980	Marionette	INFO	Stopped listening on port 52131
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1609877634302	geckodriver	INFO	Listening on 127.0.0.1:52166
+1609877634319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileKt6kKg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609877636144	Marionette	INFO	Listening on port 52175
+1609877636261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609877641649	Marionette	INFO	Stopped listening on port 52175
+1609877657607	geckodriver	INFO	Listening on 127.0.0.1:52306
+1609877657619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofile8nIhkc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609877659382	Marionette	INFO	Listening on port 52315
+1609877659475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609877660062	Marionette	INFO	Stopped listening on port 52315
+1609877682045	geckodriver	INFO	Listening on 127.0.0.1:52387
+1609877682062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofilePRzv8P"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609877683818	Marionette	INFO	Listening on port 52396
+1609877683916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609877693238	Marionette	INFO	Stopped listening on port 52396
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1609877887361	geckodriver	INFO	Listening on 127.0.0.1:52621
+1609877887379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofile5PjRqZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609877889136	Marionette	INFO	Listening on port 52630
+1609877889233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609877904619	Marionette	INFO	Stopped listening on port 52630
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1609877947549	geckodriver	INFO	Listening on 127.0.0.1:52835
+1609877947562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofilemGjcGe"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609877949353	Marionette	INFO	Listening on port 52844
+1609877949424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609877952233	Marionette	INFO	Stopped listening on port 52844
+1609877961048	geckodriver	INFO	Listening on 127.0.0.1:52995
+1609877961066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileORTg0P"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609877962848	Marionette	INFO	Listening on port 53004
+1609877962930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609877974034	Marionette	INFO	Stopped listening on port 53004
+1609878168353	geckodriver	INFO	Listening on 127.0.0.1:53210
+1609878168365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileuGXgnG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878170272	Marionette	INFO	Listening on port 53219
+1609878170313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609878176358	Marionette	INFO	Stopped listening on port 53219
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609878233001	geckodriver	INFO	Listening on 127.0.0.1:53394
+1609878233019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileqcP6fg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878234798	Marionette	INFO	Listening on port 53403
+1609878234870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609878246173	Marionette	INFO	Stopped listening on port 53403
+1609878591189	geckodriver	INFO	Listening on 127.0.0.1:53669
+1609878591208	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofilegLG8Rd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878593221	Marionette	INFO	Listening on port 53678
+1609878593283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609878606571	Marionette	INFO	Stopped listening on port 53678
+1609878616915	geckodriver	INFO	Listening on 127.0.0.1:53856
+1609878616927	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofilefVItmy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878618866	Marionette	INFO	Listening on port 53865
+1609878618890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1609878667154	geckodriver	INFO	Listening on 127.0.0.1:54034
+1609878667170	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofile6HgS68"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878668908	Marionette	INFO	Listening on port 54043
+1609878669030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609878674599	Marionette	INFO	Stopped listening on port 54043
+1609878702581	geckodriver	INFO	Listening on 127.0.0.1:54187
+1609878702592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileZSIT6Y"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878704339	Marionette	INFO	Listening on port 54196
+1609878704444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+1609878716397	Marionette	INFO	Stopped listening on port 54196
+1609878726537	geckodriver	INFO	Listening on 127.0.0.1:54337
+1609878727560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileY6slpB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878730248	Marionette	INFO	Listening on port 54348
+1609878730346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1609878773283	geckodriver	INFO	Listening on 127.0.0.1:54500
+1609878773299	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileNGUSQp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878775053	Marionette	INFO	Listening on port 54509
+1609878775173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1609878799089	geckodriver	INFO	Listening on 127.0.0.1:54698
+1609878799101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileE9wiEZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878801187	Marionette	INFO	Listening on port 54707
+1609878801267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1609878824119	geckodriver	INFO	Listening on 127.0.0.1:54890
+1609878824137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofileg9Tyda"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878825900	Marionette	INFO	Listening on port 54899
+1609878825994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609878839189	Marionette	INFO	Stopped listening on port 54899
+1609878939673	geckodriver	INFO	Listening on 127.0.0.1:55097
+1609878939688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/61/pq8rx6hj7g71tc73hcbghj5w0000gn/T/rust_mozprofilevXWHva"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609878941338	Marionette	INFO	Listening on port 55106
+1609878941434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://assets.adobedtm.com/acccca982240/2889efaf6b3f/launch-e9ff484f5018.min.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609878954324	Marionette	INFO	Stopped listening on port 55106
