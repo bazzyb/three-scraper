@@ -1,5 +1,4 @@
 import traceback
-from pprint import pprint
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -26,27 +25,29 @@ class Three_Scraper:
     def run(self):
         try:
             self.driver = create_driver(True)
+
+            print('Loading initial page')
             self.driver.get(self.three_roaming_url)
             WebDriverWait(self.driver, 10) \
                 .until(EC.element_to_be_clickable((By.ID, 'countries2-cont')))
 
             self.build_country_url_list()
 
+            print('Getting charge information')
             for country in self.countries:
                 self.get_charges(country)
 
-        except:
-            traceback.print_exc()
-            # Would put catch for something like Sentry here
+            self.close_driver()
+            return self.countries
 
-        finally:
-            # Geckodriver doesn't auto garbage collect on mac,
-            # so must ensure driver is closed manually
-            if hasattr(self, 'driver'):
-                self.driver.quit()
-                del self.driver
+        except:
+            # Would put catch for something like Sentry here
+            traceback.print_exc()
+            self.close_driver()
 
     def build_country_url_list(self):
+        print('Retrieving URLs for each country')
+
         for country in self.countries:
             url = self.get_country_url(country)
             self.countries[country]['url'] = url
@@ -58,6 +59,8 @@ class Three_Scraper:
         return country_url
 
     def get_charges(self, country):
+        print(f'Parsing charge information for {country}')
+
         self.countries[country]['costs'] = {
             'call_to_uk': None,
             'text_to_uk': None,
@@ -101,3 +104,10 @@ class Three_Scraper:
                     self.countries[country]['costs']['receive_call'] = data_cells[cell_pos].text
                 if header.text.startswith('Using internet and data'):
                     self.countries[country]['costs']['internet_data'] = data_cells[cell_pos].text
+
+    def close_driver(self):
+        # Geckodriver doesn't auto garbage collect on mac,
+        # so must ensure driver is closed manually
+        if hasattr(self, 'driver'):
+            self.driver.quit()
+            del self.driver
